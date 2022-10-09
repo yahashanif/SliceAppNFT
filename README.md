@@ -1,4 +1,5 @@
 App Slicing NFT Seller
+in Tablet
 
 ![image](https://user-images.githubusercontent.com/52150885/194768359-94226302-0b30-42bf-af4a-4797f2b512cb.png)
 </br>
